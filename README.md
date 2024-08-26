@@ -1,2 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/59cac83d-9cdd-409a-b040-7b1028899d32)
-Please be nice
+Hello my name is Charbel Wehbe
+I am a computer science student
+And a future billionaire businessman
+Remenber that name
